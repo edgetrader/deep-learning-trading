@@ -16,3 +16,5 @@ Using Oanda API for historical data download and executing trades.
 15-minute time step.  This means the algorithm will make a decision to take a long or short position.  Transaction cost is only taken in consideration when there is a switch in position's direction.
 
 ### Notebook
+1. https://github.com/edgetrader/deep-learning-trading/blob/master/notebook/deep-learning-trading.ipynb
+
